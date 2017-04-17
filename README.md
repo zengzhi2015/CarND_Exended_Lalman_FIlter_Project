@@ -29,6 +29,3 @@ The result is given below:
 
 ![alt text][image1]
 ![alt text][image2]
-
-
-# CarND_Exended_Lalman_FIlter_Project
