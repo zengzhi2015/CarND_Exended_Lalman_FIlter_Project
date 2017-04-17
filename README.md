@@ -22,7 +22,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ## Visualize the result
 
-One could visulize the result using this
+One could visualize the result using this
 [utilities repo](https://github.com/udacity/CarND-Mercedes-SF-Utilities).
 
 The result is given below:
